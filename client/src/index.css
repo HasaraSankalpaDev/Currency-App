@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    padding: 10px 10px;
+
+    color: #fff;
+    font-family: poppins;
+}
+body{
+    background: #000000f6;
+}
+.container h1{
+    color: #367E18;
+    font-size: 45px;
+    padding-bottom: 0;
+    font-weight: bold;
+}
+.container p {
+    font-size: 18px;
+}
